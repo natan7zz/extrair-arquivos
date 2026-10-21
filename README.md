@@ -57,7 +57,7 @@ ou
 > ⚠️ Se o Windows bloquear a execução, abra o PowerShell e rode:
 > `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`
 
-## 👤 Créditos
+## 👨‍💻 Autor
 
 - Desenvolvido por **Natan Sousa**
 

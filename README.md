@@ -29,9 +29,8 @@ Em vez de procurar proposta por proposta manualmente, basta colar os números em
 
 ## 🖼️ Screenshots
 
-<div align="center">
-  <img src="docs/screenshot.png" alt="Tela principal" width="500" />
-</div>
+<img width="457" height="416" alt="print2" src="https://github.com/user-attachments/assets/210c1d45-9853-4a6a-8cc3-4c54ca93063d" />
+
 
 ## ⚙️ Configuração
 
@@ -56,17 +55,9 @@ $caminhoDestino = "C:\Destino"
 > ⚠️ Se o Windows bloquear a execução, abra o PowerShell e rode:
 > `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`
 
-## 🛠️ Tecnologias
-
-| Tecnologia | Uso |
-|---|---|
-| 💠 **PowerShell** | Lógica de busca e cópia |
-| 🪟 **Windows Forms (.NET)** | Interface gráfica |
-
 ## 👤 Créditos
 
-- Projetado por **Pablo Orlando**
-- Publicado por **Natan Sousa**
+- Criado por **Natan Sousa**
 
 [![GitHub](https://img.shields.io/badge/GitHub-natan7z-181717?style=for-the-badge&logo=github)](https://github.com/natan7z)
 

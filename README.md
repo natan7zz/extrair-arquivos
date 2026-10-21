@@ -46,12 +46,13 @@ $caminhoDestino = "C:\Destino"
 ```
 
 ## 🚀 Como usar
-
-1. Baixe o arquivo `extrair-arquivos-por-proposta.ps1`.
-2. Configure os caminhos de origem e destino (veja acima).
-3. Clique com o botão direito no arquivo e escolha **Executar com o PowerShell**.
-4. Cole os números das propostas (um por linha) e clique em **OK**.
-5. Acompanhe o resultado no terminal. Os arquivos aparecem na pasta de destino.
+1. Acesse a aba [**Releases**](../../releases) e baixe o arquivo `extrair-arquivos-por-proposta.ps1`.
+ou
+2. Baixe o arquivo `extrair-arquivos-por-proposta.ps1`.
+3. Configure os caminhos de origem e destino (veja acima).
+4. Clique com o botão direito no arquivo e escolha **Executar com o PowerShell**.
+5. Cole os números das propostas (um por linha) e clique em **OK**.
+6. Acompanhe o resultado no terminal. Os arquivos aparecem na pasta de destino.
 
 > ⚠️ Se o Windows bloquear a execução, abra o PowerShell e rode:
 > `Set-ExecutionPolicy -Scope CurrentUser RemoteSigned`

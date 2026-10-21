@@ -29,8 +29,9 @@ Em vez de procurar proposta por proposta manualmente, basta colar os números em
 
 ## 🖼️ Screenshots
 
-<img width="457" height="416" alt="print2" src="https://github.com/user-attachments/assets/210c1d45-9853-4a6a-8cc3-4c54ca93063d" />
-
+<div align="center">
+  <img width="457" height="416" alt="print2" src="https://github.com/user-attachments/assets/210c1d45-9853-4a6a-8cc3-4c54ca93063d" />
+</div>
 
 ## ⚙️ Configuração
 
